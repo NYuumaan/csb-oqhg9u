@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://nyuumaan.github.io/csb-oqhg9u/static/js/main.ba36005e.chunk.js",
+    "main.js.map": "https://nyuumaan.github.io/csb-oqhg9u/static/js/main.ba36005e.chunk.js.map",
+    "runtime-main.js": "https://nyuumaan.github.io/csb-oqhg9u/static/js/runtime-main.8e1383e5.js",
+    "runtime-main.js.map": "https://nyuumaan.github.io/csb-oqhg9u/static/js/runtime-main.8e1383e5.js.map",
+    "static/js/2.9c79e31b.chunk.js": "https://nyuumaan.github.io/csb-oqhg9u/static/js/2.9c79e31b.chunk.js",
+    "static/js/2.9c79e31b.chunk.js.map": "https://nyuumaan.github.io/csb-oqhg9u/static/js/2.9c79e31b.chunk.js.map",
+    "index.html": "https://nyuumaan.github.io/csb-oqhg9u/index.html",
+    "static/js/2.9c79e31b.chunk.js.LICENSE.txt": "https://nyuumaan.github.io/csb-oqhg9u/static/js/2.9c79e31b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e1383e5.js",
+    "static/js/2.9c79e31b.chunk.js",
+    "static/js/main.ba36005e.chunk.js"
+  ]
+}
